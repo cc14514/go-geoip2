@@ -1,0 +1,16 @@
+{
+  "author": "liangc",
+  "bugs": {
+    "url": "https://github.com/cc14514/go-geoip2/issues"
+  },
+  "gx": {
+    "dvcsimport": "github.com/cc14514/go-geoip2"
+  },
+  "gxVersion": "0.14.0",
+  "language": "go",
+  "license": "",
+  "name": "go-geoip2",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.1"
+}
+
